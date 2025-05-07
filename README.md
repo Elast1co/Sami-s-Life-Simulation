@@ -43,4 +43,18 @@ It uses **OOP principles** to structure and organize the logic efficiently.
 - No external libraries — pure Python OOP practice
 
 ## 📁 Project Structure
+├── carTest.py
+├── empTest.py
+├── officeTest.py
+└── personTest.py
+
+Each file includes test scenarios to simulate different parts of Sami’s routine.
+
+## 🚀 How to Run
+
+1. Clone the repository
+2. Run each test file individually using Python:
+   ```bash
+   python carTest.py
+
 
